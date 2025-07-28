@@ -2,7 +2,8 @@
 
 AgencyNest is a comprehensive multi-tenant SaaS platform designed for digital agencies to manage their clients, projects, and team members. Built with Next.js 14, it provides a complete solution for agency management with white-label capabilities.
 
-![image](https://github.com/user-attachments/assets/c819ebc8-66e7-4d29-b6d2-22592351c2ca)
+
+<img width="1536" height="1024" alt="790c680b-edd5-4f10-82e6-87a5f45cd65f" src="https://github.com/user-attachments/assets/b4117a54-12a0-41d5-90c7-441a6c89f8b2" />
 
 ## 🚀 Features
 
