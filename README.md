@@ -3,8 +3,6 @@
 AgencyNest is a comprehensive multi-tenant SaaS platform designed for digital agencies to manage their clients, projects, and team members. Built with Next.js 14, it provides a complete solution for agency management with white-label capabilities.
 
 
-<img width="1536" height="1024" alt="790c680b-edd5-4f10-82e6-87a5f45cd65f" src="https://github.com/user-attachments/assets/b4117a54-12a0-41d5-90c7-441a6c89f8b2" />
-
 ## 🚀 Features
 
 - **Multi-Tenant Architecture**: Each agency gets their own isolated workspace
@@ -82,8 +80,7 @@ NEXT_PUBLIC_BUILDER_API_KEY=your_builder_api_key
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd webprodigies-AgencyNest-main
+   git clone
    ```
 
 2. **Install dependencies**
